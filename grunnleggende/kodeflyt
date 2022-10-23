@@ -1,0 +1,5 @@
+Det settes en grunnleggende funksjon som senere sender ut antall oppgaver
+Vi får oppgitt antall oppgaver og de forskjellige oppgavene som blir skrevet ut til bruker
+8 oppgaver blir lagt på den orginale antall oppgaver
+deretter printes antall oppgaver igjen
+etter dette kommer en if-stat som sjekker om antall oppgaver er enten over 10, under 10 eller 10 og printer ut en statement følgende
